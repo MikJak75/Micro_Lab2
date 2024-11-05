@@ -1,0 +1,29 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+annotated-types=0.6.0=py312hecd8cb5_0
+brotli-bin=1.0.9=h6c40b1e_8
+brotli-python=1.0.9=py312hcec6c5f_8
+ca-certificates=2024.9.24=hecd8cb5_0
+charset-normalizer=3.3.2=pyhd3eb1b0_0
+cython-blis=0.7.11=py312h32608ca_0
+en-core-web-sm=3.7.1=pypi_0
+importlib-metadata=8.5.0=pyha770c72_0
+libwebp-base=1.3.2=h46256e1_1
+llvm-openmp=14.0.6=h0dcd299_0
+lz4-c=1.9.4=hcec6c5f_1
+markdown-it-py=2.2.0=py312hecd8cb5_1
+matplotlib-base=3.9.2=py312ha7ebc0d_0
+matplotlib-inline=0.1.7=pyhd8ed1ab_0
+nest-asyncio=1.6.0=pyhd8ed1ab_0
+numpy-base=1.26.4=py312hbb3573c_0
+prompt-toolkit=3.0.48=pyha770c72_0
+pybind11-abi=5=hd3eb1b0_0
+pybind11-global=2.13.6=py312h1962661_0
+pydantic-core=2.20.1=py312hcc58cb1_0
+python-dateutil=2.9.0post0=py312hecd8cb5_2
+python-tzdata=2023.3=pyhd3eb1b0_0
+scikit-learn=1.5.1=py312h77d3abe_0
+spacy-legacy=3.0.12=py312hecd8cb5_0
+spacy-loggers=1.0.4=py312hecd8cb5_0
+typing-extensions=4.11.0=py312hecd8cb5_0
