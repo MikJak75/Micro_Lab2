@@ -101,8 +101,11 @@ def main():
     books, combined_books_nt = process_books('books_1.Best_Books_Ever.csv')
 
     # load the fastext model from a file containing it
-    # in this case it will output a 100 dimensional word vector
-    ft_model = fasttext.load_model('cc.en.100.bin')
+    # in this case it will output a 300 dimensional word vector
+    # you will need to download this file in order for the embedding model to
+    # work, You can do it by following the instructions here:
+    # https://fasttext.cc/docs/en/crawl-vectors.html
+    ft_model = fasttext.load_model('cc.en.300.bin')
 
 
 
